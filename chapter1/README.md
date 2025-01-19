@@ -1,6 +1,7 @@
 <h1 align="center">
 	<img src="https://img1.od-cdn.com/ImageType-400/6251-1/C95/116/7C/%7BC951167C-0149-4607-AD72-A96BC221D98C%7DImg400.jpg" alt="Cloud" width="200">
 	<br> Algorithms And Their Coding <br/>
+	Chap. 1 - Exercises<br/>
     v.1.0.0
 </h1>
 <br/>
