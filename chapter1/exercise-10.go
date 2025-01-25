@@ -1,4 +1,4 @@
-// 1.10 Area of ​​a triangle inscribed in a circle.
+// 1.10 Area of ​​a triangle inscribed in a circle
 
 package main
 

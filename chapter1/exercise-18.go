@@ -1,4 +1,4 @@
-// 1.18 Conversion of sexagesimal degrees to centensimals and radians.
+// 1.18 Conversion of sexagesimal degrees to hundredths and radians
 
 package main
 

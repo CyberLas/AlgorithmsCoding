@@ -1,4 +1,4 @@
-// 1.15 Convert complex c = a + b to polar coordinates.
+// 1.15 Convert complex c = a + b to polar coordinates
 
 package main
 

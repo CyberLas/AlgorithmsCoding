@@ -1,4 +1,4 @@
-// 1.8 Volume of a right cylinder.
+// 1.8 Volume of a right cylinder
 
 package main
 

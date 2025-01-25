@@ -1,4 +1,4 @@
-// 1.13 Theorem of a right triangle.
+// 1.13 Theorem of cosine
 
 package main
 

@@ -1,4 +1,4 @@
-// 1.4 Sum of the squares of the first n natural numbers.
+// 1.4 Sum of the squares of the first n natural numbers
 
 package main
 

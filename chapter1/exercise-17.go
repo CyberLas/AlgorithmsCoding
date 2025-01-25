@@ -1,4 +1,4 @@
-// 1.17 Law of sines.
+// 1.17 Law of sines
 
 package main
 

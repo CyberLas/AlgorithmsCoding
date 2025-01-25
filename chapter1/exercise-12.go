@@ -1,4 +1,4 @@
-// 1.12 Hypotenuse of a right triangle.
+// 1.12 Hypotenuse of a right triangle
 
 package main
 

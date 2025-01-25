@@ -1,4 +1,4 @@
-// 1.14 Distance between two points.
+// 1.14 Distance between 2 points
 
 package main
 

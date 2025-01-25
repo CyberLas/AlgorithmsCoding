@@ -1,4 +1,4 @@
-// 1.6 Sum of the area of ​​the squares formed by joining the midpoints of their sides.
+// 1.6 Sum of the areas of all the squares formed by joining the midpoints of their sides
 
 package main
 

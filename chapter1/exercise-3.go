@@ -1,4 +1,4 @@
-// 1.3 Sum of the first n natural numbers.
+// 1.3 Sum of the first n natural numbers
 
 package main
 

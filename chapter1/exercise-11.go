@@ -1,9 +1,10 @@
-// 1.11 Area of ​​a triangle as a function of the semiperimeter.
+// 1.11 Area of ​​a triangle as a function of the semiperimeter
 
 package main
 
 import (
 	"fmt"
+	"math"
 )
 
 func main() {
@@ -19,7 +20,8 @@ func main() {
 	fmt.Print("> SIDE C: ")
 	fmt.Scan(&c)
 
-	AreaTotalCil := (a + b + c) / 2
+	p := (a + b + c) / 2
+	AreaTotalCil := math.Sqrt(p * (p - a) * (p - b) * (p - c))
 
 	fmt.Printf(`
 	AREA OF A TRIANGLE IN A FUNCTION OF THE SEMIPERIMETER OF SIDES %.2f, %.2f, %.2f IS %.2f

@@ -1,4 +1,4 @@
-// 1.21 Conversion of °F, °K and °R to Celsius.
+// 1.21 Conversion of ºF, ºK and ºR to Celsius.
 
 package main
 

@@ -1,4 +1,4 @@
-// 1.7 Area of ​​a rhombus with known areas.
+// 1.7 Area of ​​a rhombus with known diagonals
 
 package main
 

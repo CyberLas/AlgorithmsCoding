@@ -1,4 +1,4 @@
-// 1.5 Sum of the cubes of the first n natural numbers.
+// 1.5 Sum of the cubes of the first n natural numbers
 
 package main
 

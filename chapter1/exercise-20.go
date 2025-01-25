@@ -1,4 +1,4 @@
-// 1.20 Conversion of degrees Celsius to Fahrenheit, Kelvin and Rankine.
+// 1.20 Conversion of degrees Celsius to Fahrenheit, Kelvin and Rankine
 
 package main
 

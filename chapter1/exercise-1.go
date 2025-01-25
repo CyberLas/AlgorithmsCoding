@@ -1,4 +1,4 @@
-// 1.1 Exchange of values.
+// 1.1 Exchange of values
 
 package main
 

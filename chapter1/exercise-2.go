@@ -1,4 +1,4 @@
-// 1.2 Handshake numbers.
+// 1.2 Number of handshakes
 
 package main
 

@@ -1,4 +1,4 @@
-// 1.9 Area of ​​a right cylinder.
+// 1.9 Total area of ​​a right cylinder
 
 package main
 

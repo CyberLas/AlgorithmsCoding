@@ -1,4 +1,4 @@
-// 1.19 Conversion of sexagesimal u° v' w'' to degrees, minutes and seconds.
+// 1.19 Conversion of sexagesimal UºV'W" to hundredths degrees, minutes and seconds
 
 package main
 

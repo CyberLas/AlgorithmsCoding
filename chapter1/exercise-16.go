@@ -1,4 +1,4 @@
-// 1.16 Amount to be returned for a loan capital.
+// 1.16 Amount to be returned for a borrowed capital
 
 package main
 
